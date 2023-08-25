@@ -1,0 +1,8 @@
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\bin\Debug\atividade cisne 2.exe.config
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\bin\Debug\atividade cisne 2.exe
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\bin\Debug\atividade cisne 2.pdb
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\obj\Debug\atividade cisne 2.csproj.AssemblyReference.cache
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\obj\Debug\atividade cisne 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\obj\Debug\atividade cisne 2.csproj.CoreCompileInputs.cache
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\obj\Debug\atividade cisne 2.exe
+C:\Users\daniel.cduca\source\repos\atividade cisne 2\atividade cisne 2\obj\Debug\atividade cisne 2.pdb
